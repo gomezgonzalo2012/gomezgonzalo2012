@@ -3,7 +3,7 @@ import { CiCalendar } from "react-icons/ci";
 import { FaLink } from "react-icons/fa6";
 const About = () => {
     const education = [
-        {id : 1, degree:"University Programming Technician" , intitution:"Universidad Tecnologica Nacional" , date: "2022 - present",certificate : ""},
+        {id : 1, degree:"University Programming Technician" , intitution:"Universidad Tecnologica Nacional" , date: "2022 - 2025", certificate : ""},
         {id : 2, degree:"REST API Development with Java and SpringBoot" , intitution:"Todo Code Academy" , date: "2024 - completed", certificate:"https://todocodeacademy.com/certificate/dq4/"},
         {id : 3, degree:"First Certificate in English (FCE) / B2." , intitution:"Centro Universitario de Idiomas U.B.A." , date: "2023 - completed",certificate: "https://drive.google.com/file/d/107CLkXMOzajEzG7OPYHeml8rVnLn5WQ8/view?usp=drive_link" },
     ]
